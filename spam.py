@@ -3,9 +3,10 @@ import smtplib, ssl, time
 smtp_server = "smtp.gmail.com"
 port = 587  # For starttls
 
-sender_email = "therevengeofjake@gmail.com"
-password = "44EastM!"
-receiver_email = "Alex.Ryley.Smith@gmail.com"
+# Chnage to have fun... responsibly!
+sender_email = "you@gmail.com"
+password = "pass"
+receiver_email = "friend@gmail.com"
 
 message = """\
 Subject: How many times I have gotten revenge: {}
